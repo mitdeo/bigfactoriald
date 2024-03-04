@@ -1,6 +1,6 @@
 {
-  "name": "deo-big-factorial",
-  "version": "1.0.5",
+  "name": "bigfactoriald",
+  "version": "1.0.0",
   "description": "my package",
   "main": "index.js",
   "directories": {
@@ -12,7 +12,7 @@
   },
   "repository": {
     "type": "git",
-    "url": "https://github.com/xuandieu1210/deo-big-factorial"
+    "url": "https://github.com/xuandieu1210/bigfactoriald"
   },
   "scripts": {
     "test": "test"
@@ -20,7 +20,7 @@
   "author": "xuandieu1210",
   "license": "ISC",
   "bugs": {
-    "url": "https://github.com/xuandieu1210/deo-big-factorial/issues"
+    "url": "https://github.com/xuandieu1210/bigfactorialdissues"
   },
-  "homepage": "https://github.com/xuandieu1210/deo-big-factorial#readme"
+  "homepage": "https://github.com/xuandieu1210/bigfactoriald"
 }
