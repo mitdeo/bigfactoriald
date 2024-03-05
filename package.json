@@ -8,11 +8,12 @@
   },
   "dependencies": {
     "deo-vector-math": "^1.0.0",
-    "deotheme": "^1.0.1"
+    "deotheme": "^1.0.5",
+    "vectord": "^1.0.0"
   },
   "repository": {
     "type": "git",
-    "url": "https://github.com/xuandieu1210/bigfactoriald"
+    "url": " https://github.com/xuandieu1210/bigfactoriald"
   },
   "scripts": {
     "test": "test"
