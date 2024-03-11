@@ -13,12 +13,12 @@
   },
   "repository": {
     "type": "git",
-    "url": " https://github.com/mitdeo/bigfactoriald.git"
+    "url": " https://github.com/mitdeo/bigfactoriald"
   },
   "scripts": {
     "test": "test"
   },
-  "author": "xuandieu1210",
+  "author": "mitdeo",
   "license": "ISC",
   "bugs": {
     "url": "https://github.com/mitdeo/bigfactoriald.git"
