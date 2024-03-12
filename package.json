@@ -1,16 +1,18 @@
 {
   "name": "bigfactoriald",
-  "version": "1.0.8",
-  "description": "my package",
+  "version": "1.0.9",
+  "description": "## Overview",
   "main": "index.js",
   "directories": {
-    "test": "test"
+    "lib": "lib",
+    "test": "tests"
   },
   "repository": {
     "type": "git",
     "url": "https://github.com/mitdeo/bigfactoriald"
   },
   "dependencies": {
+    "deo-big-factorial": "^1.0.5",
     "deo-vector-math": "^1.0.0",
     "deotheme": "^1.0.5",
     "vectord": "^1.0.0"
@@ -19,10 +21,5 @@
     "test": "test"
   },
   "author": "mitdeo",
-  "license": "ISC",
-  "bugs": {
-    "url": "https://github.com/mitdeo/bigfactoriald.git"
-  },
-  "homepage": "https://github.com/mitdeo/bigfactoriald.git",
-  "devDependencies": {}
+  "license": "ISC"
 }
