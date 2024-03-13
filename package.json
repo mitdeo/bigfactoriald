@@ -1,6 +1,6 @@
 {
   "name": "bigfactoriald",
-  "version": "1.1.0",
+  "version": "1.1.1",
   "description": "## Overview",
   "main": "index.js",
   "directories": {
@@ -11,7 +11,7 @@
     "type": "git",
     "url": "https://github.com/mitdeo/bigfactoriald.git"
   },
-  "dependencies": { 
+  "dependencies": {
     "deo-big-factorial": "^1.0.5",
     "deo-vector-math": "^1.0.0",
     "deotheme": "^1.0.5",
