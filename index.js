@@ -1,5 +1,6 @@
 var bilby = require('bilby');
 var bigInt = require('big-integer');
+var bigInt2 = require('big-integer');
 
 function _factorial(acc, n) {
   return n.greater(0)
