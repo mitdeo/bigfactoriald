@@ -34,7 +34,7 @@ described in Reginald's blog post, this problem is solved by using trampolines.
 ## Installation
 
 ``` bash
-$ npm install big-factorial
+$ npm install bigfactoriald
 ```
 
 ## API
