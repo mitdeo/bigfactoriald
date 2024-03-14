@@ -1,10 +1,5 @@
 # big-factorial
 
-Like [factorial](https://github.com/wearefractal/factorial) but for big numbers.
-Inspired by
-[a blog post](http://raganwald.com/2013/03/28/trampolines-in-javascript.html) by
-Reginald Braithwaite ([@raganwald](https://github.com/raganwald)).
-
 ## Example
 
 If you want to find the factorial of an integer less than 171, then you don't
